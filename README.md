@@ -1,4 +1,4 @@
 exslt.org
 =========
 
-The EXSLT website.
+The **EXSLT** website.
